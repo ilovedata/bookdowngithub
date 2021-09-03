@@ -1,5 +1,5 @@
 --- 
-title: "A Minimal Book Example"
+title: "이용희 책"
 author: "John Doe"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
