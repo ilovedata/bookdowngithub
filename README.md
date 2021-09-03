@@ -1,13 +1,9 @@
-Welcome! 
+# Bookdown 과 Github Page
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+이 저장소는 `Bookdown` 패키지를 이용하여 `Github` 에 저장소 웹이지를 만드는 예제입니다.
 
-This template provides a skeleton file structure that you can edit to create your book. 
+# 참고문헌
 
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+- [Github actions with R](https://orchid00.github.io/actions_sandbox/)
+- [How to publish bookdown projects with GitHub Actions on GitHub Pages](https://medium.com/@delucmat/how-to-publish-bookdown-projects-with-github-actions-on-github-pages-6e6aecc7331e)
+ 
